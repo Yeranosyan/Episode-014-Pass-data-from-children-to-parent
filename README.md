@@ -11,3 +11,4 @@ Handle Data in Parent Component: Inside the parent component, the callback funct
 Re-render Parent Component: Once the parent component's state is updated, React automatically re-renders the parent component, reflecting any changes in the user interface.
 
 That's the basic flow of passing data from a child to a parent component in React using callback functions. This pattern allows for effective communication between components in a React application.
+<img width="1511" alt="Screenshot 2024-03-27 at 10 56 17 AM" src="https://github.com/Yeranosyan/Episode-014-Pass-data-from-children-to-parent/assets/120154377/72ed2bea-f27c-4c58-ba66-04deb8d9bc15">
